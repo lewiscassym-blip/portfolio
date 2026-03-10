@@ -1,0 +1,35 @@
+body{
+    margin: 5x;
+    font-family: Arial, sans-serif;
+    background-color: rgba(116, 116, 2, 0.63);
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #afa990b7;
+    padding: 20px 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 25px;
+    border-radius: 50px;
+}
+
+.navbar-brand {
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #614f3a;
+    text-decoration: none;
+    
+}
+
+.home ,
+.about,
+.contact {
+    font-size: 18px;
+    color: #614f3a;
+    text-decoration: none;
+    margin-left: 20px;
+}
